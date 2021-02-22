@@ -14,3 +14,11 @@ Character.create([
 	{ name: "Agent Smith", description: "Agent Smith is a fictional character and the main antagonist of The Matrix trilogy." },
 
 ])
+
+Vehicle.create([
+
+{name: "Nebuchadnezzar",
+style: "Spaceship"}
+
+
+])
